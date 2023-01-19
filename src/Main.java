@@ -18,7 +18,7 @@ public class Main {
 
         albums.add(album1);
         albums.add(album2);
-
+//change
         System.out.println(album1.findSong("295"));
 
         LinkedList<Song> myPlaylist = new LinkedList<>();
